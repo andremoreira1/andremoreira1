@@ -14,12 +14,10 @@ I'm a {QA Enginner} developer at Base2 in Belo Horizonte, Brazil
 ---
 
 
-
-
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremoreira1&hide=html&layout=compact" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremoreira1&layout=compact" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andremoreira1&theme=default" /></td>
   </tr>   
 </table>
