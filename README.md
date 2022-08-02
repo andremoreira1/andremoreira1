@@ -6,7 +6,7 @@
 
 
 ### About me
-I'm a {QA Enginner} developer at Base2 in Belo Horizonte, Brazil
+I'm a {QA Enginner} developer at Avenue Code in Belo Horizonte, Brazil
 
 - [Website](https://andremoreira.dev/) 💻 - Working on it.
 
